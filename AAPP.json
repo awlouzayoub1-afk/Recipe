@@ -1,0 +1,112 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Moroccan Couscous",
+      "ingredients": ["semolina", "meat", "carrots", "pumpkin", "chickpeas"],
+      "preparation": [
+        "Steam the semolina until fluffy.",
+        "Cook the meat with spices.",
+        "Add vegetables and chickpeas.",
+        "Serve couscous with sauce."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Tagine",
+      "ingredients": ["chicken", "potatoes", "garlic", "olive oil"],
+      "preparation": [
+        "Marinate chicken with spices.",
+        "Place ingredients in the tagine.",
+        "Cook on low heat for 45 minutes.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Harira Soup",
+      "ingredients": ["tomatoes", "lentils", "chickpeas", "celery"],
+      "preparation": [
+        "Cook chickpeas and lentils.",
+        "Add tomatoes and celery.",
+        "Season with spices.",
+        "Simmer until thick."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chicken Pastilla",
+      "ingredients": ["chicken", "eggs", "almonds", "pastry sheets"],
+      "preparation": [
+        "Cook chicken with spices.",
+        "Prepare egg mixture.",
+        "Layer the pastry with filling.",
+        "Bake until golden."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Moroccan Salad",
+      "ingredients": ["tomatoes", "cucumber", "onion", "olive oil", "salt"],
+      "preparation": [
+        "Chop all vegetables.",
+        "Mix with olive oil and salt.",
+        "Serve fresh."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Meat Tagine with Prunes",
+      "ingredients": ["meat", "prunes", "onion", "cinnamon", "honey"],
+      "preparation": [
+        "Cook meat with onions and spices.",
+        "Add prunes and honey.",
+        "Simmer until sauce thickens.",
+        "Serve warm."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chebakia",
+      "ingredients": ["flour", "sesame seeds", "honey", "cinnamon"],
+      "preparation": [
+        "Prepare the dough.",
+        "Shape the chebakia.",
+        "Fry until golden.",
+        "Dip in honey and sesame."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Rfissa",
+      "ingredients": ["chicken", "msemen", "lentils", "fenugreek"],
+      "preparation": [
+        "Cook chicken with spices.",
+        "Prepare msemen pieces.",
+        "Add lentils and sauce.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Eggs with Tomatoes",
+      "ingredients": ["eggs", "tomatoes", "garlic", "olive oil"],
+      "preparation": [
+        "Cook tomatoes with garlic.",
+        "Crack eggs into the pan.",
+        "Cook until eggs are set."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Stuffed Sardines",
+      "ingredients": ["sardines", "parsley", "garlic", "cumin", "lemon"],
+      "preparation": [
+        "Prepare the sardine stuffing.",
+        "Fill sardines with mixture.",
+        "Grill or fry.",
+        "Serve with lemon."
+      ]
+    }
+  ]
+}
